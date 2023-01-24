@@ -30,6 +30,6 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: false
-          tags: momesso/ci-go:latest
+         # tags: momesso/ci-go:latest
 
     
